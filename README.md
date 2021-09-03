@@ -13,5 +13,5 @@
 > Re-direct output of a program/command to another file with '>' followed by file-name.
 
 ### Change Directory
-> Use 'cd ..' to move to parent of current directory. 
-> Use 'cd <pathname>' to move to specified path.
+> Use 'cd ..' to move to parent of current directory. <br>
+> Use 'cd [pathname]' to move to specified path.
